@@ -51,10 +51,6 @@ Never miss a critical event:
 
 ## Contributing
 
-We welcome contributions to enhance the frontend experience. Whether it's a new feature, bug fix, or design improvement, your input is valued. Please refer to the main project's contributing guidelines for more details.
-
-## Contributing
-
 We welcome contributions to enhance the frontend experience. Whether it's a new feature, bug fix, or design improvement, your input is valued. Please refer to the [contributing guidelines](../README.md#Contributing) in the main project's README for more details.
 
 
