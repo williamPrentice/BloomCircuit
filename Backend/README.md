@@ -7,14 +7,14 @@ This is the backend for the BloomCircuit project. It consists of a NodeMCU setup
 The NodeMCU setup uses the Soil Capac. Sens. V2 to capture soil moisture readings.
 
 - **Directory**: `/backend/nodemcu`
-- [Setup and Instructions](/backend/nodemcu/README.md)
+- [Setup and Instructions](/backend/NodeMCU/README.md)
 
 ## Raspberry Pi (RPi)
 
 The RPi receives data from the NodeMCU via WebSocket and then uploads it to a server.
 
 - **Directory**: `/backend/rpi`
-- [Setup and Instructions](/backend/rpi/README.md)
+- [Setup and Instructions](/backend/Rpi/README.md)
 
 ## Setup 1
 
