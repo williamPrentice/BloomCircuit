@@ -27,8 +27,5 @@ The RPi receives data from the NodeMCU via WebSocket and then uploads it to a se
 
 ## Contributing
 
-Provide guidelines if you want others to contribute.
+Opportunities for contribution will be available in the future. Stay tuned for guidelines and details.
 
-## License
-
-Specify your license here.
