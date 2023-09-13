@@ -55,5 +55,6 @@ We welcome contributions to enhance the frontend experience. Whether it's a new 
 
 ## Feedback
 
-User feedback is crucial for the continuous improvement of the frontend. If you have suggestions, issues, or general feedback, please open an issue in the main project repository.
+Opportunities for feedback will be available soon. We value user input and look forward to incorporating your suggestions to enhance the frontend experience.
+
 
