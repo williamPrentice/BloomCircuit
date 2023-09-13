@@ -53,8 +53,9 @@ Never miss a critical event:
 
 We welcome contributions to enhance the frontend experience. Whether it's a new feature, bug fix, or design improvement, your input is valued. Please refer to the main project's contributing guidelines for more details.
 
-## Feedback
+## Contributing
 
-Opportunities for feedback will be available soon. We value user input and look forward to incorporating your suggestions to enhance the frontend experience.
+We welcome contributions to enhance the frontend experience. Whether it's a new feature, bug fix, or design improvement, your input is valued. Please refer to the [contributing guidelines](../README.md#Contributing) in the main project's README for more details.
+
 
 
