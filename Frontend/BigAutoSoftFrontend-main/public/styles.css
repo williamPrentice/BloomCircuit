@@ -1,0 +1,57 @@
+body, html {
+    margin: 0;
+    height: 100%;
+    font-family: 'Arial', sans-serif; 
+    background-color: #2b2b2b; /* A very dark gray as background */
+    color: #a9a9a9; /* Dim gray for text */
+    overflow: hidden; /* Ensures no scrolling */
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; /* Will create space between the items */
+    height: calc(100% - 40px); /* Subtracting padding from height */
+    padding: 20px;
+    box-sizing: border-box; /* Ensures padding and border are included in element's total height and width */
+}
+
+h1 {
+    margin: 15px;
+    font-size: 2em;
+    flex-shrink: 0; /* Prevent the title from shrinking */ 
+    color:rgb(218, 183, 252)
+}
+
+#timeRange {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    background-color: #6a6a6a; /* A slightly lighter gray for input fields */
+    color: #a9a9a9;
+    flex-shrink: 0; /* Prevent the dropdown from shrinking */
+}
+
+#chartWrapper {
+    flex: 1; /* This will take up the remaining space */
+    width: 95vw;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; /* Prevent internal scrolling inside the wrapper */
+}
+
+#myChart {
+    width: 100%; 
+    height: 100%;
+    border-radius: 12px; /* Rounded corners for a modern touch */
+    border: black 2px solid;
+    background-color: #4a4a4a;
+    padding-left:10px;
+    padding-top:15px;
+    padding-right:15px;
+}

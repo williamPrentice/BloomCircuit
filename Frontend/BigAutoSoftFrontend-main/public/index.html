@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <title>Astro's Dank-Ass Tomato Grow Room</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/date-fns@2.22.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@2.0.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.0.2"></script>
+    
+
+</head>
+<body>
+    <div id="container">
+        <h1>Grow Room 1</h1>
+        <select id="timeRange">
+            <option value="1">Last Hour</option>
+            <option value="6">Last 6 Hours</option>
+            <option value="24" selected>Last Day</option>
+            <option value="168">Last Week</option>
+        </select>
+        <div id="chartWrapper">
+    <canvas id="myChart"></canvas>
+</div>
+
+    </div>
+
+    <!-- <script src="scripts.js"></script> -->
+    <script src="scriptsTest.js"></script>
+</body>
+</html>
